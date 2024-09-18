@@ -121,6 +121,11 @@ https://github.com/user-attachments/assets/9e4b6a11-6232-40ca-a183-14cca81fe512
 - This project uses the MoveNet model for pose estimation
 - Face detection is powered by the InsightFace library
 
+## Contribution
+<a href="https://github.com/CodisteTechTeam/VisionProctoring/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=CodisteTechTeam/VisionProctoring" />
+</a>
+
 ## Conclusion
 Your setup is now complete! If you encounter any issues, submit an issue on the GitHub repository.
 ---
